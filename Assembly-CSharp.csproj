@@ -65,6 +65,8 @@
      <Compile Include="Assets\Scripts\Doors.cs" />
      <Compile Include="Assets\Scripts\PlayerRaycast.cs" />
      <Compile Include="Assets\Scripts\DemiDoors.cs" />
+     <Compile Include="Assets\Scripts\NinStation.cs" />
+     <Compile Include="Assets\Scripts\iPad.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\ModularFirstPersonController" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Bathroom" />
@@ -104,6 +106,7 @@
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom\RR Build Kit\Stall" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Textures\Restroom" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Frames Windows Stairs &amp; Doors" />
+     <Folder Include="Assets\iPad\Materials" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Props\Lighting" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Props\Kitchen" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Z Axis -1" />
@@ -122,11 +125,13 @@
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Misc" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Materials\Legacy" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit" />
+     <Folder Include="Assets\iPad" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Materials" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit\Exterior" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Special\Molding" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Textures\Misc" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Special" />
+     <Folder Include="Assets\Videos" />
      <Folder Include="Assets\Brick Project Studio" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit\Interior" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom\RR Build Kit\Walls" />
@@ -150,6 +155,7 @@
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Exteriors" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Base Scene" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Textures\Basic Asset" />
+     <Folder Include="Assets\iPad\Render" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Materials\Restroom" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Kitchen\Appliances" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Closet" />

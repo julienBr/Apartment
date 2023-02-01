@@ -61,6 +61,8 @@
      <Compile Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Slide\BRGlassDoor.cs" />
      <Compile Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\TableFlip\TableFlipL.cs" />
      <Compile Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Windows\opencloseWindow1.cs" />
+     <Compile Include="Assets\Scripts\IUsable.cs" />
+     <Compile Include="Assets\Scripts\Doors.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\ModularFirstPersonController" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Bathroom" />
@@ -70,7 +72,6 @@
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Props\Misc" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\Scenes" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets" />
-     <Folder Include="Assets\ModularFirstPersonController\DemoScene\Gridbox Prototype Materials\Resources\Textures" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Textures\Interior Exterior" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Models\Build Kits" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Drawer\X Axis" />
@@ -103,7 +104,6 @@
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Frames Windows Stairs &amp; Doors" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Props\Lighting" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Props\Kitchen" />
-     <Folder Include="Assets\ModularFirstPersonController\DemoScene\Gridbox Prototype Materials\Resources\ProBuilder Data" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Z Axis -1" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit\Interior\Int_02" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Exteriors\Ext_Apt_01" />
@@ -119,7 +119,6 @@
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Textures" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Misc" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Materials\Legacy" />
-     <Folder Include="Assets\ModularFirstPersonController\DemoScene\Gridbox Prototype Materials" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Materials" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit\Exterior" />
@@ -137,7 +136,7 @@
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Props\Art" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom\RR Build Kit\Floors Ceilings" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit\IntExt" />
-     <Folder Include="Assets\ModularFirstPersonController\DemoScene\Gridbox Prototype Materials\Resources\Materials" />
+     <Folder Include="Assets\Scripts" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom\Fixtures" />
@@ -149,9 +148,6 @@
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Exteriors" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Base Scene" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Textures\Basic Asset" />
-     <Folder Include="Assets\ModularFirstPersonController\DemoScene\Gridbox Prototype Materials\Resources\Textures\Prototype Grid" />
-     <Folder Include="Assets\ModularFirstPersonController\DemoScene" />
-     <Folder Include="Assets\ModularFirstPersonController\DemoScene\Gridbox Prototype Materials\Resources" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Materials\Restroom" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Kitchen\Appliances" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Closet" />
@@ -162,10 +158,8 @@
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Special\Wall Tiles" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Exteriors\Special" />
-     <Folder Include="Assets\Scenes" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Props\Electronics" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\TableFlip" />
-     <Folder Include="Assets\ModularFirstPersonController\DemoScene\Gridbox Prototype Materials\Resources\Materials\Prototype Grid" />
      <None Include="Assets\Brick Project Studio\Apartment Kit\Scenes\BPS Apartment Kit.txt" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Kitchen\Cabinets" />
      <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Drawer\Z Axis" />

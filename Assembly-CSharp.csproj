@@ -64,6 +64,7 @@
      <Compile Include="Assets\Scripts\IUsable.cs" />
      <Compile Include="Assets\Scripts\Doors.cs" />
      <Compile Include="Assets\Scripts\PlayerRaycast.cs" />
+     <Compile Include="Assets\Scripts\DemiDoors.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\ModularFirstPersonController" />
      <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Bathroom" />
